@@ -1,0 +1,5 @@
+chatbot/.vscode
+chatbot/venv
+sketch2code/host/model_weights/
+sketch2code/model_weights
+sketch2code/data
